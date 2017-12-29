@@ -1,0 +1,8 @@
+AndroidXamarin.Activity2, AndroidXamarin;md501a731cff348525abb9ea921aa99b78e.Activity2
+AndroidXamarin.Activity2, AndroidXamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501a731cff348525abb9ea921aa99b78e.Activity2
+AndroidXamarin.Activity2;md501a731cff348525abb9ea921aa99b78e.Activity2
+androidxamarin.Activity2;md501a731cff348525abb9ea921aa99b78e.Activity2
+AndroidXamarin.MainActivity, AndroidXamarin;md501a731cff348525abb9ea921aa99b78e.MainActivity
+AndroidXamarin.MainActivity, AndroidXamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501a731cff348525abb9ea921aa99b78e.MainActivity
+AndroidXamarin.MainActivity;md501a731cff348525abb9ea921aa99b78e.MainActivity
+androidxamarin.MainActivity;md501a731cff348525abb9ea921aa99b78e.MainActivity

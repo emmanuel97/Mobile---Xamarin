@@ -1,0 +1,40 @@
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.pdb
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.AndroidXamarin.apk
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.AndroidXamarin-Signed.apk
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csprojResolveAssemblyReference.cache
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csproj.CoreCompileInputs.cache
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.pdb
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\android\bin\AndroidXamarin.AndroidXamarin.apk
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\res\layout\cursos.xml
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\res\layout\main.xml
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\res\values\strings.xml
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\R.cs.flag
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\uploadflags.txt
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\android\assets\AndroidXamarin.dll.mdb
+c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Json.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\AndroidXamarin.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Json.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
