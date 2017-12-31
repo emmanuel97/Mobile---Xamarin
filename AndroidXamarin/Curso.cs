@@ -14,32 +14,23 @@ namespace AndroidXamarin
 {
     public class Curso
     {
-        private String nome, area, tempo;
 
-        public Curso(String nome, String area, String tempo)
+        public string Nome { get; set; }
+
+        public string Area { get; set; }
+
+        public string Tempo { get; set; }
+        
+
+        public Curso(string nome, string area, string tempo)
         {
-            this.nome = nome;
-            this.tempo = tempo;
-            this.area = area;
+            this.Nome = nome;
+            this.Tempo = tempo;
+            this.Area = area;
         }
 
 
-        public String GetTempo()
-        {
-            return tempo;
-        }
 
-        public String GetNome()
-        {
-            return nome;
-        }
-
-        public String GetArea()
-        {
-            return area;
-        }
-
-
-        public override String ToString() { return nome + " - " + area + " - " + tempo + "hs\n"; }
+        public override string ToString() { return string.Format(Nome + " - " + Area + " - " + Tempo + "hs\n"); }
     }
 }

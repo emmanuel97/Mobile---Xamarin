@@ -2,7 +2,6 @@ c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\A
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.pdb
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.AndroidXamarin.apk
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.AndroidXamarin-Signed.apk
-c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csprojResolveAssemblyReference.cache
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csproj.CoreCompileInputs.cache
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.pdb
@@ -12,9 +11,10 @@ c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\r
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\res\values\strings.xml
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\R.cs.flag
 c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\uploadflags.txt
-c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb
-c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\android\assets\AndroidXamarin.dll.mdb
-c:\users\emmanuel bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
+C:\Users\Emmanuel Bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb
+C:\Users\Emmanuel Bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\android\assets\AndroidXamarin.dll.mdb
+C:\Users\Emmanuel Bulacio\source\repos\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel Bulacio\source\repos\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb

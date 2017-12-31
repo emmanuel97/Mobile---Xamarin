@@ -47,11 +47,17 @@ namespace AndroidXamarin
 			// aapt resource value: 0x7f040002
 			public const int button = 2130968578;
 			
-			// aapt resource value: 0x7f040000
-			public const int cursos = 2130968576;
-			
 			// aapt resource value: 0x7f040001
-			public const int textView1 = 2130968577;
+			public const int cursos = 2130968577;
+			
+			// aapt resource value: 0x7f040004
+			public const int meusCursos = 2130968580;
+			
+			// aapt resource value: 0x7f040003
+			public const int textView1 = 2130968579;
+			
+			// aapt resource value: 0x7f040000
+			public const int voltaBtn = 2130968576;
 			
 			static Id()
 			{

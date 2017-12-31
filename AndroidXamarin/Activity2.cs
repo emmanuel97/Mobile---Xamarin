@@ -6,12 +6,14 @@ using Android.Widget;
 using System.Json;
 using System.Net;
 using System.IO;
+using Android.Content;
 
 namespace AndroidXamarin
 {
     [Activity(Label = "Activity2")]
     public class Activity2 : Activity
     {
+        private Button button;  
         private ListView listaDeCursos;
         private List<Curso> cursos;
         protected override void OnCreate(Bundle savedInstanceState)
@@ -20,11 +22,29 @@ namespace AndroidXamarin
 
             // Create your application here
             SetContentView(Resource.Layout.cursos);
+            button = (Button)FindViewById(Resource.Id.voltaBtn);
 
+            button.Click += (sender, e) => {
+                Volta();
+            };
             ListarCursos();
             listaDeCursos = (ListView)FindViewById(Resource.Id.cursos);
             ArrayAdapter<Curso> ListAdapter = new ArrayAdapter<Curso>(this, Android.Resource.Layout.SimpleListItem1, cursos);
             listaDeCursos.Adapter = ListAdapter;
+            listaDeCursos.ItemClick += ListaDeCursos_ItemClick;
+
+        }
+
+        private void ListaDeCursos_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+        {
+            Curso c = cursos[e.Position];
+            Banco.InsertData(c.Nome,c.Area,c.Tempo);
+        }
+
+        public void Volta()
+        {
+            var intent = new Intent(this, typeof(MainActivity));
+            StartActivity(intent);
         }
 
         public void ListarCursos()
@@ -65,9 +85,8 @@ namespace AndroidXamarin
                     // Use this stream to build a JSON document object:
                     JsonValue jsonDoc = JsonObject.Load(stream);
 
-                    JsonObject respostaJson = new JsonObject();
-                    respostaJson.Add("consulta", jsonDoc);
-                    JsonArray jsonArray = (JsonArray)respostaJson["consulta"]["results"];
+                    //JsonObject respostaJson = new JsonObject{{ "consulta", jsonDoc } };
+                    JsonArray jsonArray = (JsonArray)jsonDoc["results"];
                     return jsonArray;
                 }
             }
